@@ -3,6 +3,7 @@ ogr2osm.py
 
 A tool upgraded for use with python3 for converting ogr-readable files like shapefiles into .osm data
 
+Note this is a beta version of the tool.
 
 Installation
 ------------
