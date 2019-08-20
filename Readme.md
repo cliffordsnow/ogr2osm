@@ -1,7 +1,7 @@
 ogr2osm.py
 ==========
 
-A tool for converting ogr-readable files like shapefiles into .osm data
+A tool upgraded for use with python3 for converting ogr-readable files like shapefiles into .osm data
 
 
 Installation
@@ -17,7 +17,7 @@ It also makes use of lxml. Although it should fall back to builtin XML implement
 To install ogr2osm and download the default translations the following command 
 can be used:
 
-	git clone --recursive https://github.com/pnorman/ogr2osm
+	git clone --recursive https://github.com/cliffordsnow/ogr2osm
 	
 To update
 
@@ -28,7 +28,7 @@ To update
 About
 -----
 
-This version of ogr2osm is based on 
+This version of ogr2osm is based on [Paul Norman's version of](github.com/pnorman/ogr2osm)
 [Andrew Guertin's version for UVM](https://github.com/andrewguertin/ogr2osm)
 which is in turn based on Ivan Ortega's version from the OSM SVN server.
 
